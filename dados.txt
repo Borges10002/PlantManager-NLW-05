@@ -1,0 +1,16 @@
+biblioteca de icon 
+  -expo/vector-icons
+
+biblioteca de fonts
+ -npx expo install expo-font @expo-google-fonts/jost
+
+biblioteca de loading
+  -expo install expo-app-loading
+
+biblioteca de navegacao
+   yarn add @react-navigation/native
+   npx expo install react-native-screens react-native-safe-area-context
+   npx expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+   yarn add @react-navigation/native-stack
+
+
