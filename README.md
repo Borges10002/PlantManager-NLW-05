@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center">Confirmar nome</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Login.jpeg" width=200 height=400></td>
+    <td><img src="https://github.com/Borges10002/PlantManager-NLW-05/blob/main/src/assets/imgs/1-Splash.png" width=200 height=400></td>
     <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Home%20(em%20andamento).jpeg" width=200 height=400></td>
     <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Home%20(finalizados).jpeg" width=200 height=400></td>
   </tr>
