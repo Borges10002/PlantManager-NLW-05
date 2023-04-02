@@ -35,8 +35,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </tr>
   <tr>
     <td><img src="https://github.com/Borges10002/PlantManager-NLW-05/blob/main/src/assets/imgs/1-Splash.png" width=200 height=400></td>
-    <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Home%20(em%20andamento).jpeg" width=200 height=400></td>
-    <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Home%20(finalizados).jpeg" width=200 height=400></td>
+    <td><img src="https://github.com/Borges10002/PlantManager-NLW-05/blob/main/src/assets/imgs/2-Bem%20vindo.png" width=200 height=400></td>
+    <td><img src="https://github.com/Borges10002/PlantManager-NLW-05/blob/main/src/assets/imgs/3%20-Confirmar%20nome.png" width=200 height=400></td>
   </tr>
  </table>
 
@@ -45,10 +45,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center">Escolha uma planta</td>
      <td align="center">Tudo certo</td>
      <td align="center">Minhas plantas</td>
+     <td align="center">Planta</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Nova%20solicita%C3%A7%C3%A3o.jpeg" width=200 height=400></td>
-     <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Solicita%C3%A7%C3%A3o%20(em%20andamento).jpeg" width=200 height=400></td>
-     <td><img src="https://github.com/Borges10002/rockethelp-mobile/blob/main/imgs/Solicita%C3%A7%C3%A3o%20(finalizada).jpeg" width=200 height=400></td>
+    <td><img src="https://github.com/Borges10002/PlantManager-NLW-05/blob/main/src/assets/imgs/6-Escolha%20uma%20planta.png" width=200 height=400></td>
+     <td><img src="https://github.com/Borges10002/PlantManager-NLW-05/blob/main/src/assets/imgs/8-Tudo%20certo.png" width=200 height=400></td>
+     <td><img src="https://github.com/Borges10002/PlantManager-NLW-05/blob/main/src/assets/imgs/9-Minhas%20plantas.png" width=200 height=400></td>
+     <td><img src="https://github.com/Borges10002/PlantManager-NLW-05/blob/main/src/assets/imgs/10-Planta.png" width=200 height=400></td>
   </tr>
  </table>
