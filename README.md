@@ -12,7 +12,7 @@ Projeto: 🚀 Concluído 🚀
 
 ## 💻 Objetivo
 
-PlantManager, um aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil de acordo com cada tipo de plantinha
+PlantManager, um aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil de acordo com cada tipo de plantinha.
 
 ## 🛠 Tecnologias
 

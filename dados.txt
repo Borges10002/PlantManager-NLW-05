@@ -13,4 +13,8 @@ biblioteca de navegacao
    npx expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
    yarn add @react-navigation/native-stack
 
+biblioteca de header 
+   https://github.com/ptelad/react-native-iphone-x-helper
+   npm i react-native-iphone-x-helper --save
+
 
