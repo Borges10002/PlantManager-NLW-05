@@ -17,4 +17,19 @@ biblioteca de header
    https://github.com/ptelad/react-native-iphone-x-helper
    npm i react-native-iphone-x-helper --save
 
+estart uma api local para teste 
+    json-server ./src/services/server.json --host 192.168.1.107 --port 3333
+
+biblioteca para lidar com img svg 
+  npx expo install react-native-svg
+
+biblioteca para lidar com animacoes   
+  https://docs.expo.dev/versions/latest/sdk/lottie/
+   npx expo install lottie-react-native
+
+biblioteca do AsyncStorage
+https://docs.expo.dev/versions/latest/sdk/async-storage/
+npx expo install @react-native-async-storage/async-storage
+
+
 
