@@ -37,10 +37,16 @@ export function UserIdentification() {
     setName(value);
   }
 
-  function handleSubmit() {
+  async function handleSubmit() {
     if (!name) return Alert.alert("Me diz como chamar você 😢");
 
-    navigation.navigate("Confirmation");
+    try {
+      await AsyncStorage.setItem("@plantmanager:user", name);
+
+      navigation.navigate("Confirmation");
+    } catch (error) {
+      Alert.alert("Não foi possivel salvar o seu nome. 😢");
+    }
   }
 
   return (

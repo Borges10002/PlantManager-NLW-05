@@ -31,5 +31,12 @@ biblioteca do AsyncStorage
 https://docs.expo.dev/versions/latest/sdk/async-storage/
 npx expo install @react-native-async-storage/async-storage
 
+biblioteca DateTimePicker 
+   https://docs.expo.dev/versions/latest/sdk/date-time-picker/
+   npx expo install @react-native-community/datetimepicker
+
+biblioteca Date FNS lidar com data  
+ https://date-fns.org/ 
+ yarn add date-fns
 
 
