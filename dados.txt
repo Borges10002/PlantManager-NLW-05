@@ -43,4 +43,12 @@ biblioteca Date FNS lidar com data
   https://reactnavigation.org/docs/tab-based-navigation
   yarn add @react-navigation/bottom-tabs
 
+  biblioteca de notificacao 
+   https://docs.expo.dev/versions/latest/sdk/notifications/?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=CjwKCAjw6IiiBhAOEiwALNqncWmNWuGHF3c_UtRe0JDQOyOlD71wlYpxFelz24tavtJA6YiQc7nN0RoCYT4QAvD_BwE
+  npx expo install expo-notifications
+
+
+  site de emoji 
+     https://getemoji.com/
+
 

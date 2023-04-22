@@ -19,19 +19,19 @@ PlantManager, um aplicativo para lhe ajudar a lembrar de cuidar de suas plantas 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 <ol> 
-<li> Typescript </li>
-<li> Expo </li>
-<li> Expo Local Notifications </li>
-<li> Async Storage </li>
-<li> Vector Icons </li>
-<li> Axios </li>
-<li> Date Fns </li>
-<li> Lottie </li>
-<li> Expo Google Fonts </li>
-<li> React Navigation Stack e Bottom Tabs </li>
-<li> React Native Gesture Handler </li>
-<li> Json Server </li>
-    </ol>
+  <li> Typescript </li>
+  <li> Expo </li>
+  <li> Expo Local Notifications </li>
+  <li> Async Storage </li>
+  <li> Vector Icons </li>
+  <li> Axios </li>
+  <li> Date Fns </li>
+  <li> Lottie </li>
+  <li> Expo Google Fonts </li>
+  <li> React Navigation Stack e Bottom Tabs </li>
+  <li> React Native Gesture Handler </li>
+  <li> Json Server </li>
+</ol>
 <p/>
 
 ## 📱 Telas
